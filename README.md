@@ -1,4 +1,4 @@
-# WirelessSA_Server
+# VDMS with Docker
 
 ##### OpenCV Version
 3.2.0
